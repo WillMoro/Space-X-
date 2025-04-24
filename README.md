@@ -12,6 +12,7 @@
 ➡ O objetivo desse projeto foi praticar o desenvolvimento web responsivo e com icones e animações fluídas.
 
 🛠 Tecnologias utilizadas no projeto:
+
 ✅ HTML5 - Estruturação da página 
 
 ✅ CSS3 - Estilização e responsividade
